@@ -1,289 +1,289 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Agro Canal" tvg-name="AGRO CANAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/aovivoac-transparente.png" group-title="CANAIS ABERTO",AGRO CANAL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5983
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5983
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25008
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25008
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6882
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6882
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20874
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20874
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4400
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4400
 #EXTINF:-1 tvg-id="Band" tvg-name="BAND SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20875
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20875
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD (MANUTENCAO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND RJ HD (MANUTENCAO)
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25542
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25542
 #EXTINF:-1 tvg-id="" tvg-name="BAND GOIANIA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND GOIANIA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25019
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25019
 #EXTINF:-1 tvg-id="" tvg-name="BAND PARANA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND PARANA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24927
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24927
 #EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND RS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25018
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25018
 #EXTINF:-1 tvg-id="" tvg-name="BAND TV TAROBA PARANA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND TV TAROBA PARANA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24924
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24924
 #EXTINF:-1 tvg-id="Band Campinas" tvg-name="BAND CAMPINAS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18203
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18203
 #EXTINF:-1 tvg-id="" tvg-name="BAND ARACAJU HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/ViewImage.png" group-title="CANAIS ABERTO",BAND ARACAJU HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24752
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24752
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="CANAL RURAL SD" tvg-logo="https://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-925x576.png" group-title="CANAIS ABERTO",CANAL RURAL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20837
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20837
 #EXTINF:-1 tvg-id="CNT" tvg-name="CNT SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cd/CNT.png/revision/latest?cb=20150202235412" group-title="CANAIS ABERTO",CNT SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20841
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20841
 #EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png" group-title="CANAIS ABERTO",FUTURA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10277
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10277
 #EXTINF:-1 tvg-id="Futura" tvg-name="FUTURA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Futura_1.png" group-title="CANAIS ABERTO",FUTURA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20753
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20753
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nbr.png" group-title="CANAIS ABERTO",NBR SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6950
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6950
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/nbr.png" group-title="CANAIS ABERTO",NBR SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20625
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20625
 #EXTINF:-1 tvg-id="RBI TV" tvg-name="RBI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/85/Logotipo_da_Rede_Brasileira_de_Informa%C3%A7%C3%A3o.png" group-title="CANAIS ABERTO",RBI SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20580
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20580
 #EXTINF:-1 tvg-id="Globo RBS TV Porto Alegre" tvg-name="RBS TV PORTO ALEGRE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rbsrs.png" group-title="CANAIS GLOBO",RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6942
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6942
 #EXTINF:-1 tvg-id="RCI" tvg-name="RCI SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_RCI.png/200px-Logo_RCI.png" group-title="CANAIS ABERTO",RCI SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20579
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20579
 #EXTINF:-1 tvg-id="" tvg-name="Globo InterTV Grande Minas" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",Globo InterTV Grande Minas
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/27184
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/27184
 #EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-name="Globo NSC Florianopolis" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/NSC_TV_logo.png" group-title="CANAIS GLOBO",Globo NSC Florianopolis
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/27185
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/27185
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL SD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia/images/a/a3/Tv-rio-sul.png" group-title="CANAIS GLOBO",GLOBO TV RIO SUL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24757
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24757
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPETININGA SD" tvg-logo="http://s2.glbimg.com/ALRC-0KGnX8aa4hdE4ZhdfVsa4Y=/s.glbimg.com/og/rg/f/original/2014/02/12/tv_tem_-_hd_1.png" group-title="CANAIS GLOBO",GLOBO TV TEM ITAPETININGA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24631
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24631
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE HD" tvg-logo="http://images.mi.tv/channels/br_tv-sergipe-hd_m.png" group-title="CANAIS GLOBO",GLOBO TV SERGIPE HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24750
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24750
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERGIPE SD" tvg-logo="http://images.mi.tv/channels/br_tv-sergipe-hd_m.png" group-title="CANAIS GLOBO",GLOBO TV SERGIPE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24629
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24629
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1e/Logotipo_da_TV_Asa_Branca.png/200px-Logotipo_da_TV_Asa_Branca.png" group-title="CANAIS GLOBO",GLOBO TV ASA BRANCA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24308
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24308
 #EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO BRASILIA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10239
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10239
 #EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7530
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7530
 #EXTINF:-1 tvg-id="GLOBO BRASILIA" tvg-name="GLOBO BRASILIA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO BRASILIA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22769
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22769
 #EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10234
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10234
 #EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7932
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7932
 #EXTINF:-1 tvg-id="GLOBO CAMPINAS" tvg-name="GLOBO EPTV CAMPINAS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV CAMPINAS SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22767
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22767
 #EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9471
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9471
 #EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV RIBEIRAO PRETO SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22765
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22765
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CENTRAL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV CENTRAL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22006
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22006
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SUL MINAS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SUL MINAS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22762
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22762
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7528
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7528
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO MINAS HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22760
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22760
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10276
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10276
 #EXTINF:-1 tvg-id="GLOBO MG" tvg-name="GLOBO MINAS SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO MINAS SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22761
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22761
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERTV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO INTERTV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22748
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22748
 #EXTINF:-1 tvg-id="Inter TV Cabugi" tvg-name="GLOBO INTERTV CABUGI SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO INTERTV CABUGI SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22763
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22763
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO INT SERRA MAR SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO INT SERRA MAR SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22005
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22005
 #EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10240
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10240
 #EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7527
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7527
 #EXTINF:-1 tvg-id="GLOBO NORDESTE" tvg-name="GLOBO NORDESTE SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO NORDESTE SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22759
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22759
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RBS TV POA FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25011
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25011
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV POA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RBS TV POA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25007
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25007
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="GLOBO RBS TV POA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RBS TV POA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9469
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9469
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV VANGUARDA TAUBATE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV VANGUARDA TAUBATE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10233
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10233
 #EXTINF:-1 tvg-id="TV Rio Preto SJRP" tvg-name="GLOBO RIO PRETO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RIO PRETO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9468
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9468
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6113
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6113
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22756
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22756
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7547
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7547
 #EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO RJ SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RJ SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22753
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22753
 #EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7866
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7866
 #EXTINF:-1 tvg-id="RPC Curitiba" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO RPC CURITIBA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22750
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22750
 #EXTINF:-1 tvg-id="TV CENTRO AMERICA" tvg-name="GLOBO TV CENTRO AMERICA CUIABA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV CENTRO AMERICA CUIABA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22017
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22017
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRACAO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV INTEGRACAO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22745
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22745
 #EXTINF:-1 tvg-id="TV Liberal Belem" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22736
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22736
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE COCAIS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV MIRANTE COCAIS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22744
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22744
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUDOESTE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV SUDOESTE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22741
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22741
 #EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="GLOBO TV TEM BAURU SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22738
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22738
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22734
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22734
 #EXTINF:-1 tvg-id="TV Gazeta ES" tvg-name="GLOBO TV GAZETA ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_TV_Gazeta_ES.png/200px-Logo_TV_Gazeta_ES.png" group-title="CANAIS GLOBO",GLOBO TV GAZETA ES HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24959
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24959
 #EXTINF:-1 tvg-id="TV Gazeta ES" tvg-name="GLOBO TV GAZETA ES SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Logo_TV_Gazeta_ES.png/200px-Logo_TV_Gazeta_ES.png" group-title="CANAIS GLOBO",GLOBO TV GAZETA ES SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24958
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24958
 #EXTINF:-1 tvg-id="TV TEM Sorocaba" tvg-name="GLOBO TV TEM SOROCABA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV TEM SOROCABA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22737
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22737
 #EXTINF:-1 tvg-id="TV Tribuna Santos" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22732
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22732
 #EXTINF:-1 tvg-id="TV Vanguarda SJC" tvg-name="GLOBO TV VANGUARDA SJ DOS CAMPOS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV VANGUARDA SJ DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22735
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22735
 #EXTINF:-1 tvg-id="TV Verdes Mares" tvg-name="GLOBO TV VERDES MARES SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV VERDES MARES SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22733
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22733
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV FRONTEIRA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV FRONTEIRA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22749
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22749
 #EXTINF:-1 tvg-id="Globo Sorocaba" tvg-name="GLOBO SOROCABA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SOROCABA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7684
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7684
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25012
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25012
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7529
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7529
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22755
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22755
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4431
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4431
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="GLOBO SP SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO SP SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22757
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22757
 #EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tv_anhanguera.png" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10272
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10272
 #EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tv_anhanguera.png" group-title="CANAIS GLOBO",GLOBO TV ANHANGUERA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22004
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22004
 #EXTINF:-1 tvg-id="TV TEM Bauru" tvg-name="GLOBO TV TEM BAURU SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9465
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/9465
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/200px-EPTV.png" group-title="CANAIS GLOBO",GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22766
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/22766
 #EXTINF:-1 tvg-id="Rede Amazonica Manaus" tvg-name="GLOBO AMAZONICA  HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO AMAZONICA  HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/21985
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/21985
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="NSC TV  JOINVILE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/NSC_TV_logo.png" group-title="CANAIS GLOBO",NSC TV  JOINVILE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10232
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10232
 #EXTINF:-1 tvg-id="" tvg-name="NSC TV BLUMENAU SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/NSC_TV_logo.png" group-title="CANAIS GLOBO",NSC TV BLUMENAU SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5973
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5973
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SANTA CRUZ SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo-tv-globo-2015.png" group-title="CANAIS GLOBO",GLOBO TV SANTA CRUZ SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10238
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10238
 #EXTINF:-1 tvg-id="GLOBO TV BAHIA" tvg-name="GLOBO BAHIA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbahia.png" group-title="CANAIS GLOBO",GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7539
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7539
 #EXTINF:-1 tvg-id="" tvg-name="RECORD TV ATALAIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e2/Logotipo_da_TV_Atalaia_%282016%29.png/200px-Logotipo_da_TV_Atalaia_%282016%29.png" group-title="CANAIS RECORD",RECORD TV ATALAIA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24751
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24751
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SANTA CATARINA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD SANTA CATARINA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18153
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18153
 #EXTINF:-1 tvg-id="" tvg-name="RECORD TV GOIAS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD TV GOIAS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18151
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18151
 #EXTINF:-1 tvg-id="TV Vitória" tvg-name="RECORD ES SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvvitoria.png" group-title="CANAIS RECORD",RECORD ES SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6817
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6817
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13183
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13183
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7836
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/7836
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20571
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20571
 #EXTINF:-1 tvg-id="" tvg-name="RECORD PARANA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD PARANA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18148
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18148
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4423
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4423
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20572
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20572
 #EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD SP HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18168
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/18168
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/record.png" group-title="CANAIS RECORD",RECORD RS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25017
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25017
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rbctv.png" group-title="CANAIS ABERTO",REDE BRASIL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4421
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4421
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="REDE BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/rbctv.png" group-title="CANAIS ABERTO",REDE BRASIL SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20573
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20573
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",REDE TV HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6940
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6940
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",REDE TV HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20574
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20574
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",REDE TV SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4420
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4420
 #EXTINF:-1 tvg-id="RedeTV!" tvg-name="REDE TV SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",REDE TV SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20575
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20575
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV RS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/redetv.png" group-title="CANAIS ABERTO",REDE TV RS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25304
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25304
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6889
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6889
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT HD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20554
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20554
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4331
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4331
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20555
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20555
 #EXTINF:-1 tvg-id="" tvg-name="SBT PE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT PE HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20552
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20552
 #EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT PI FHD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13182
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/13182
 #EXTINF:-1 tvg-id="TV Serra Dourada" tvg-name="SBT GO HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/serra_dourada_2015_two.png" group-title="CANAIS ABERTO",SBT GO HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6931
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6931
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD (MANUTENCAO)" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT RJ HD (MANUTENCAO)
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25544
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25544
 #EXTINF:-1 tvg-id="" tvg-name="SBT ARACAJU HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT ARACAJU HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24753
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24753
 #EXTINF:-1 tvg-id="" tvg-name="SBT JORNAL HD" tvg-logo="https://vignette.wikia.nocookie.net/grupo-livre-de-comunicacao/images/9/9f/TV_Jornal.png/revision/20140207212144?path-prefix=pt-br" group-title="CANAIS ABERTO",SBT JORNAL HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24956
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24956
 #EXTINF:-1 tvg-id="" tvg-name="SBT PARANA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT PARANA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24925
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24925
 #EXTINF:-1 tvg-id="" tvg-name="SBT SC HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT SC HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24923
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24923
 #EXTINF:-1 tvg-id="" tvg-name="SBT PI HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT PI HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24755
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/24755
 #EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sbt.png" group-title="CANAIS ABERTO",SBT RS HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25303
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/25303
 #EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC INTERNACIONAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="CANAIS CULTURA",SIC INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20525
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20525
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV APARECIDA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logo_rede_aparecida_comunicacao.png" group-title="CANAIS RELIGIOSOS",TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4438
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4438
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png" group-title="CANAIS ABERTO",TV BRASIL SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4442
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4442
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV BRASIL SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvbrasil.png" group-title="CANAIS ABERTO",TV BRASIL SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20482
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20482
 #EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CAMARA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/57714c5d2d3650532f7eb9a6.png" group-title="CANAIS ABERTO",TV CAMARA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10245
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10245
 #EXTINF:-1 tvg-id="TV Câmara" tvg-name="TV CAMARA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/57714c5d2d3650532f7eb9a6.png" group-title="CANAIS ABERTO",TV CAMARA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20483
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20483
 #EXTINF:-1 tvg-id="TV Senado" tvg-name="TV SENADO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/05/TV_Senado.svg_.png" group-title="CANAIS ABERTO",TV SENADO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10246
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/10246
 #EXTINF:-1 tvg-id="TV5Monde Bresil" tvg-name="TV5 MONDE SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/2000px-TV5Monde_Logo.svg_.png" group-title="CANAIS ENTRETENIMENTO",TV5 MONDE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6178
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6178
 #EXTINF:-1 tvg-id="TVE HD" tvg-name="TVE HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/Logotipo_da_TVE_Bahia.png" group-title="CANAIS ABERTO",TVE HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4440
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4440
 #EXTINF:-1 tvg-id="" tvg-name="TV CIDADE OESTE SD" tvg-logo="https://tvcidadeoeste.com.br/wp-content/uploads/2017/11/cropped-TV-CIDADE-OESTE_LOGO.png" group-title="CANAIS ABERTO",TV CIDADE OESTE SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20484
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20484
 #EXTINF:-1 tvg-id="" tvg-name="TV CLIMATEMPO SD" tvg-logo="https://img.ibxk.com.br/2014/8/programas/12148727.png" group-title="CANAIS ABERTO",TV CLIMATEMPO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20478
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20478
 #EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png" group-title="CANAIS ABERTO",TV CULTURA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4412
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4412
 #EXTINF:-1 tvg-id="Cultura" tvg-name="TV CULTURA HD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/cultura.png" group-title="CANAIS ABERTO",TV CULTURA HD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20473
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20473
 #EXTINF:-1 tvg-id="TV Diario" tvg-name="TV DIARIO SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvdiario.png" group-title="CANAIS ABERTO",TV DIARIO SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4411
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/4411
 #EXTINF:-1 tvg-id="TV Escola" tvg-name="TV ESCOLA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvescola.png" group-title="CANAIS ABERTO",TV ESCOLA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5975
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5975
 #EXTINF:-1 tvg-id="TV Escola" tvg-name="TV ESCOLA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/tvescola.png" group-title="CANAIS ABERTO",TV ESCOLA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20477
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20477
 #EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TV ESPANHA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png" group-title="CANAIS NOTICIAS",TV ESPANHA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20470
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20470
 #EXTINF:-1 tvg-id="" tvg-name="TV GAZETA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png" group-title="CANAIS ABERTO",TV GAZETA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20472
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20472
 #EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA SD" tvg-logo="http://ghdadvogados.com.br/wp-content/uploads/2014/11/logo-TV-Justi%C3%A7a.png" group-title="CANAIS ABERTO",TV JUSTICA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5970
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/5970
 #EXTINF:-1 tvg-id="TV Justiça" tvg-name="TV JUSTICA SD*" tvg-logo="http://ghdadvogados.com.br/wp-content/uploads/2014/11/logo-TV-Justi%C3%A7a.png" group-title="CANAIS ABERTO",TV JUSTICA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20475
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20475
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="TERRA VIVA SD" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/terraviva.png" group-title="CANAIS ABERTO",TERRA VIVA SD
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6936
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/6936
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="TERRA VIVA SD*" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/terraviva.png" group-title="CANAIS ABERTO",TERRA VIVA SD*
-plugin://plugin.video.f4mTester/?name=elistatv&streamtype=TSDOWNLOADER&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20471
+plugin://plugin.video.f4mTester/?name=BR-LIVE&streamtype=TSDOWNLOADER&maxbitrate=1264000&amp;url=http://painel.ebanonet.com.br:25461/bethie/bethie/20471
